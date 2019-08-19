@@ -1,0 +1,19 @@
+{
+  "assets": {
+    "BASE_URL" : "http://localhost:3002/assets",
+    "query_selector_list": [
+      "complianceCategories",
+      "assetsDeprecated",
+      "assetLifecycle",
+      "businessCriticality",
+      "assetCategory",
+      "ownership"
+    ],
+    "frequency": 30
+  },
+  "cabintake": {
+    "BASE_URL" : "http://localhost:3002/cabintake",
+    "query_selector_list": [],
+    "frequency": 5
+  }
+}
